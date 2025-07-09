@@ -5,10 +5,9 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=["numpy"],
-    author="Your Name",
+    author="Ivanov_M.S.",
     description="Adaptive KNN classifier using KD-Tree",
     classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3"
     ],
 )
