@@ -10,7 +10,7 @@
 **Динамика бронирований** по месяцам.  
 **Фильтры**: `room_type`, `neighbourhood_group`.  
 
-## Ссылка на дашборд: https://public.tableau.com/shared/HRCY9B4PT?:display_count=n&:origin=viz_share_link
+Ссылка на дашборд: https://public.tableau.com/shared/HRCY9B4PT?:display_count=n&:origin=viz_share_link
 
 ## **Технологии**  
 - **Tableau Public** – дашборд.  
