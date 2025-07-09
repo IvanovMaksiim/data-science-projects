@@ -17,9 +17,9 @@
 
 Метрики:
 - Accuracy
-- Precision (weighted)
-- Recall (weighted)
-- F1-score (weighted)
+- Precision 
+- Recall 
+- F1-score 
 
 > В среднем, кастомная модель показывает **небольшое, но стабильное улучшение (~+0.005)** по всем метрикам.
 
