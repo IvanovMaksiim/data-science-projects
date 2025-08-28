@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+psycopg2-binary
+pandas
+matplotlib
+seaborn
+scikit-learn
