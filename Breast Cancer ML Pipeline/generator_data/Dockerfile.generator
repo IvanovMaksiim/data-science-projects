@@ -1,0 +1,10 @@
+FROM python:3.10-slim
+
+WORKDIR /opt/kafka/scripts
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY ./scripts /opt/kafka/scripts
+
+CMD ["python", "generator_data.py"]
